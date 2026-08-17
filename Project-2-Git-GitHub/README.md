@@ -56,3 +56,26 @@ This project provided practical experience with Git version control, GitHub remo
 ## Conclusion
 
 Git and GitHub are essential tools for managing source code and collaborating on software projects. This project strengthened my practical understanding of the Git workflow used in software development and DevOps.
+
+## Practical Demonstration
+
+This project was completed and demonstrated using an Ubuntu Linux environment on an AWS EC2 instance.
+
+The practical demonstration included:
+
+- Cloning the GitHub repository
+- Creating and tracking files
+- Checking repository status
+- Staging changes
+- Creating commits
+- Pushing changes to GitHub
+- Pulling changes from GitHub
+- Creating and working with a feature branch
+- Merging the feature branch into the main branch
+- Verifying the final Git history and repository status
+
+## Repository
+
+GitHub Repository:
+
+https://github.com/ShahzaibGhaznavi/rhombixtechnologies_tasks
